@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --windowed --icon "{INSERT ABSPATH}/Blocker.ico" --add-data "{INSERT ABSPATH}/Blocker.ico;."  "{INSERT ABSPATH}/cutiePY.py"
